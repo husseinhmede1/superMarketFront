@@ -1,0 +1,17 @@
+.onSameLine {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: stretch;
+}
+
+.UploadFileClass {
+    width: 100%;
+    border-radius: 5px;
+    color: cadetblue;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    
+}
